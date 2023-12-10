@@ -1,0 +1,19 @@
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\metro other forms with sql.exe.config
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\metro other forms with sql.exe
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\metro other forms with sql.pdb
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Documents\VS\metro other forms with sql\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.Form1.resources
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.Properties.Resources.resources
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.csproj.CopyComplete
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.exe
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro other forms with sql.pdb
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.Client_Registration.resources
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.Delete_Clients.resources
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.Update_clients.resources
+C:\Users\DELL\Documents\VS\metro other forms with sql\obj\Debug\metro_other_forms_with_sql.delete2.resources
